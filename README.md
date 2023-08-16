@@ -1,2 +1,2 @@
 # aws_test
-AWS
+Zum Testen der Lambda Funktion ist AWS
