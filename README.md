@@ -1,2 +1,2 @@
 # aws_test
-Zum Testen der Lambda Funktion ist AWS
+Zum Upload des Reposetory zu einem S3 Bucket
